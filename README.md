@@ -12,7 +12,9 @@ To me, a growth mindset is all about learning and evolving. Some people believe 
 ### Fun Fact:
 * Below it's me in California one week ago, time passes quickly :smile:
 
-![unnamed](https://user-images.githubusercontent.com/113934137/191134763-36870847-f7c8-4cec-8c66-0d939f8ebc07.jpg=250x250)
+![unnamed](https://user-images.githubusercontent.com/113934137/191134763-36870847-f7c8-4cec-8c66-0d939f8ebc07.jpg)
+<image src = "https://user-images.githubusercontent.com/113934137/191134763-36870847-f7c8-4cec-8c66-0d939f8ebc07.jpg" width = "250" height = "250">
+
 
 
 ### Bye for now!!
