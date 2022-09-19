@@ -10,7 +10,7 @@ To me, a growth mindset is all about learning and evolving. Some people believe 
 * Don't let obstacles intimidate you **(persistence beats resistance)**
 
 ### Fun Fact:
-* Below it's me in California one week ago, time passes quickly :EMOJICODE:
+* Below it's me in California one week ago, time passes quickly :smile:
 
 ![unnamed](https://user-images.githubusercontent.com/113934137/191134763-36870847-f7c8-4cec-8c66-0d939f8ebc07.jpg)
 
