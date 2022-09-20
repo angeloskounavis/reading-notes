@@ -16,8 +16,17 @@
 
 <img width="500" alt="Screen Shot 2022-09-20 at 9 12 59 AM" src="https://user-images.githubusercontent.com/113934137/191268206-9b2bfc45-8566-4d4f-9a78-c293bc4212d0.png">
 
+For Bold text use **
+
+For Italic text use * *
+
+For Bold and nesteted Italic use ** **
+
 
 ## Now why use Github?
 
 * Well GitHub allows you to create a repository name. Add some help from Jekyll to the mix and the result would be a profesional looking website.
 * GitHub basically translates text into a website that you can share with friends or you can use for your own business!!
+* GitHub supports adding images from your repository either by adding a link or uploading the picture.
+
+<img width="500" alt="Screen Shot 2022-09-20 at 9 28 44 AM" src="https://user-images.githubusercontent.com/113934137/191270901-c198c67e-3758-41a0-9f9b-90e0dd1a2ff6.png">
