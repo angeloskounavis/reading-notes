@@ -18,6 +18,5 @@ To me, a growth mindset is all about learning and evolving. Some people believe 
 
 
  
- 
 ### Bye for now!!
 
