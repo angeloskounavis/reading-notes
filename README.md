@@ -15,5 +15,4 @@ To me, a growth mindset is all about learning and evolving. Some people believe 
 
 <image src = "https://user-images.githubusercontent.com/113934137/191134763-36870847-f7c8-4cec-8c66-0d939f8ebc07.jpg" width = "850" height = "850">
  
-### Bye for now!!
-
+ #### Bye for now!!
