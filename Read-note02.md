@@ -1,11 +1,6 @@
-# The Command Line
+# Read 02
 
-
-
-# Basic Navigation
-
-
-# About Files
+## About Files
 
 *Would you like to learn the first and most importnant thing of linux? Well, **everything is a File**. When you write a text that's considered a file even your keyboard is a file. Another thing to note is that linux has extensions.*
 
