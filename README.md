@@ -13,6 +13,7 @@ Hello, my name is Angelos Kounavis. I came from Greece about 10 years ago and be
 ---
 
 ## Table of Contents
+
 * [class 1 notes](Read-not01.md)
 * [class 2 notes](Read-note02.md)
 * Below it's me in California one week ago, time passes quickly!!
