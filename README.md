@@ -1,5 +1,9 @@
 # Growth Mindset project (Lab 01b)
-My name is Angelos Kounavis, I am excited to learn more about Growth Mindset and write a few words regarding the topic.
+
+Hello, my name is Angelos Kounavis. I came from Greece about 10 years ago and before codefellows I used to work in marketing. I can't wait to be a part of this software development team.
+
+
+I am excited to learn more about Growth Mindset and write a few words regarding the topic.
 
 To me, a growth mindset is all about learning and evolving. Some people believe that certain individuals succeed in life because they are talented in a certain area (math, sports, politics, coding). The concept of a "growth mindset" dismantles this belief. Sure, you can be gifted in math, but only through hard work and perseverance you can develop your skills and become better; no matter the level you are at currently.
  
@@ -10,7 +14,7 @@ To me, a growth mindset is all about learning and evolving. Some people believe 
 * Don't let obstacles intimidate you **(persistence beats resistance)**
 
 ### Fun Fact:
-* Below it's me in California one week ago, time passes quickly :smile:
+* Below it's me in California one week ago, time passes quickly
 [Link for my website](https://angeloskounavis.github.io/reading-notes/)
 
 
