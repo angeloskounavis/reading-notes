@@ -22,7 +22,7 @@ p {
 
 subset of the elements without changing the others. The most common way to do this is to add a class to your HTML element and target that class.
 
-
+adding a note
 
 
 <img width="300" alt="Screen Shot 2022-09-20 at 9 11 17 AM" src="Screen Shot 2022-09-21 at 9.30.11 PM.png">
