@@ -1,4 +1,6 @@
-# Growth Mindset project (Lab 01b)
+# Code 102 and 201 Reading notes
+
+## Growth Mindset project (Lab 01b)
 
 Hello, my name is Angelos Kounavis. I came from Greece about 10 years ago and before codefellows I used to work in marketing. I can't wait to be a part of this software development team.
 
