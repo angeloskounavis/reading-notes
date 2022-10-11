@@ -1,0 +1,35 @@
+# Read Class 06
+
+## How would you describe an object to a non-technical friend you grew up with?
+
+* I would say that objects is described as a collection of data. It looks very similar to a list however, you can put content into your items like name: Jon.
+
+## What are some advantages to creating object literals?
+
+* Well objects offer flexibility in declaration and a more clean code over all. You could place an object literal anywhere in your program and it'll work.
+
+## How do objects differ from arrays?
+
+* Arrays are limited to creating a list while as I said before an object can also include the characteristics of this list. You can also add arrays and functions into an object if you like.
+
+## Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation
+
+* If you wold like to access or use a variable then bracket notation is perfect for that. A dot notation would not work in this example.
+
+## Evaluate the code below. What does the term this refer to and what is the advantage to using this?
+
+* This. replaces the word dog and then we pick name to just accessing the value at the index that you want. It just makes your code cleaner to read you can totally write dog.name if you wanted.
+
+## What is the DOM?
+
+* It's a representation of the page. "You can change the document structure, style, and content. The DOM represents the document as nodes and objects; that way, programming languages can interact with the page." (Link down below).
+
+## Briefly describe the relationship between the DOM and JavaScript.
+
+* According to the article What is the difference between JavaScript and DOM? "JavaScript allows you to manipulate the DOM AKA Document object model that controls the client side scripting." (Link below).
+
+### Sources
+
+* https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+
+* https://stackoverflow.com/questions/2726554/what-is-the-difference-between-javascript-and-dom
