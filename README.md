@@ -21,6 +21,8 @@ Hello, my name is Angelos Kounavis. I came from Greece about 10 years ago and be
 * Below it's me in California one week ago, time passes quickly!!
 [GitHub portofolio link](https://angeloskounavis.github.io/reading-notes/)
 
+### 301 Class Reading Notes
+
 <image src = "https://user-images.githubusercontent.com/113934137/191134763-36870847-f7c8-4cec-8c66-0d939f8ebc07.jpg" width = "600" height = "600">
 
 
